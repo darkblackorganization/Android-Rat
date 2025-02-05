@@ -66,7 +66,7 @@ uo2.innerHTML+='<br><div class="usr" >'+model+' <span style="float:right" >'+ave
 }
 }
 else{
-uo2.innerHTML="No online MC ka bacha";
+uo2.innerHTML="please use condom ";
 }
 });
 }
